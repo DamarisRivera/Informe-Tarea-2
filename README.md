@@ -41,9 +41,9 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 	(c) V = 3 V
   
-  (d) V = 4 V
+  	(d) V = 4 V
   
-  (e) V = 10 V
+  	(e) V = 10 V
 	
 ##### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 	
@@ -65,9 +65,9 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 	(c) V = 40 V, R = 68 kΩ
   
-  (d) V = 1 kV, R = 2.2 kΩ
+  	(d) V = 1 kV, R = 2.2 kΩ
   
-  (e) V = 66 kV, R = 10 MΩ
+  	(e) V = 66 kV, R = 10 MΩ
 	
 ##### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
@@ -87,15 +87,15 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 	(c) I = 3 A, R = 5.6 kΩ
   
-  (d) I = 1.6 mA, R = 2.2 kΩ
+  	(d) I = 1.6 mA, R = 2.2 kΩ
   
-  (e) I = 250 μA, R = 1.0 kΩ
+  	(e) I = 250 μA, R = 1.0 kΩ
   
-  (f) I = 500 mA, R = 1.5 MΩ
+  	(f) I = 500 mA, R = 1.5 MΩ
   
-  (g) I = 850 μA, R = 10 MΩ
+  	(g) I = 850 μA, R = 10 MΩ
   
-  (h) I = 75 μA, R = 47 Ω
+  	(h) I = 75 μA, R = 47 Ω
 	
 ##### 26. signe un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 	
@@ -113,7 +113,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 	(d) V = 5.5 V, I = 10 A
   
-  (e) V = 1 kV, I = 1 mA
+  	(e) V = 1 kV, I = 1 mA
 	
 ##### 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
@@ -169,7 +169,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
-##### 14. Convierta 5  106 watts-minutos en kWh
+##### 14. Convierta 5 x 10^6 watts-minutos en kWh
 
 ##### 16.  ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 	
@@ -181,7 +181,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
 
-##### 24. n resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+##### 24. n resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
 ##### *SECCIÓN 4-3 Clasificaciones de potencia en resistores*
 
