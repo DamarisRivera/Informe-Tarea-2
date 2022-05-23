@@ -137,151 +137,73 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
-##### *SECCIÓN 2-3 Voltaje, corriente y resistencia*
+##### 6. Convierta las siguientes cantidades en kilowatts:
 
-##### 6. ¿Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-
-	V = W/Q = 500 J/100 C = 5 V
-
-##### 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
-
-	W = VxQ = (12 V)(2.5 C) = 30 J
-
-##### 10. Determine la corriente en cada uno de los siguientes casos: 
+	(a) 1000 W
 	
-	(a) 75 C en 1 s      →   I = Q/t   →  75 C/1 s    → 75 A
+	(b) 3750 W
 	
-	(b) 10 C en 0.5 s    →   I = Q/t   →  10 C/0.5 s  → 20 A
+	(c) 160 W
 	
-	(c) 5 C en 2 s       →   I = Q/t   →  5 C/2 s     → 2.5 A
+	(d) 50,000 W
 
-##### 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+##### 8. Convierta las siguientes cantidades en miliwatts:
 
-	t = Q/I  →   t = 10 C/5 A    →   t = 2 s
-
-##### 14. 5.74x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+	(a) 1 W
 	
-	5.74 X  1017 electrones/6.25 X 10^(18) electrones/C = 91.84x10^(-3) mC
+	(b) 0.4 W
 	
-	I=Q/t = 91.84/250 = 0.36736 A
-
-##### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+	(c) 0.002 W
 	
-	(a) 0.1 S     →   R = 1/G   →   R = 1/0.1 = 10 Ω 
+	(d) 0ñ.0125 W
+
+##### 10.  Convierta las siguientes cantidades en watts:
 	
-	(b) 0.5 S     →   R = 1/G   →   R = 1/0.5 = 2 Ω 
+	(a) 1.5 kW
 	
-	(c) 0.02 S    →   R = 1/G   →   R = 1/0.02 = 50 Ω 
+	(b) 0.5 MW
 	
-##### *SECCIÓN 2-4 Fuentes de voltaje y de corriente*
-
-##### 18. ¿En qué principio se basan los generadores eléctricos?
-
-	El principio de inducción electromagnética, es decir, se convierte la energía mecánica en energía eléctrica.
-
-##### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
-
-	V = I*R = 100 mA * 1 kΩ = 100 V
-
-	Icarga = V/R = 100/500 = 0.2 A = 200 mA
+	(c) 350 mW
 	
-	Al disminuir la resistencia a la mitad, como es de esperar, se duplica la corriente
+	(d) 9000 μW
 
-##### *SECCIÓN 2-5 Resistores*
+##### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
-##### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+##### 14. Convierta 5  106 watts-minutos en kWh
 
-	(a) 27 kΩ ± 5%
+##### 16.  ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 	
-	27,000*0.05 27,000*0.05 = 135Ω    →   27,000+135 27,000+135 = 27,135Ω 27,135Ω máxima
-	27,000*0.05 27,000*0.05 = 135Ω    →   27,000-135 =26,865Ω =26,865Ω Mínima
+##### *SECCIÓN 4-2 Potencia en un circuito eléctrico*
 
-	(b) 1.8 kΩ ± 10%
-	
-	1800*0.1 1800*0.1 =180Ω    →    1800 + 180=1,980Ω =1,980Ω máxima
-	00*0.1 1800*0.1 =180Ω      →    1800 -180 =1,620Ω =1,620Ω mínima
+##### 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
-##### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+##### 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
 
-	(a) café, negro, negro, oro       →  1 - 0 - 0 - ±5%   →  10 Ω ± 5%
-	
-	(b) verde, café, verde, plata     →  5 - 1 - 5 - ±10%  →  5.100.000 Ω ± 10%
-	
-	(c) azul, gris, negro, oro        →  6 - 8 - 0 - ±5%   →  68 Ω ± 5%
+##### 22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
 
-##### 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+##### 24. n resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
-	(a) rojo, gris, violeta, rojo, café       →  2 - 8 - 7 - 2 - ±1%  →   28.700 ± 1%
-	
-	(b) azul, negro, amarillo, oro, café      →  6 - 0 - 4 - x0.1 - ±1%  →   604x0.1 = 60.4 ± 1%
-	
-	(c) blanco, naranja, café, café, café     →  9 - 3 - 1 - 1 - ±1%  →  9.310 ± 1%
+##### *SECCIÓN 4-3 Clasificaciones de potencia en resistores*
 
-##### 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿Cuál es la resistencia entre cada terminal y el contacto ajustable?
+##### 26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
-![](https://github.com/DamarisRivera/InformeTarea/blob/224da56cb581562673e381b89b5c066245d24495/cap1.png)
+##### *SECCIÓN 4-4 Conversión de energía y caída de voltaje en una resistencia*
 
-##### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
-	
-	(a) 4R7J     →  4.73 Ω  ± 5%
-	
-	(b) 5602M    →  5602 MΩ
-	
-	(c) 1501F    →  1501 Ω ± 1%
+##### 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
-##### *SECCIÓN 2-6 El circuito eléctrico*
+![image](https://user-images.githubusercontent.com/105671763/169917467-d1a3814b-c6ee-44a5-b4a5-f3f3aeb73fe4.png)
 
-##### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
-![](https://github.com/DamarisRivera/InformeTarea/blob/9fd092473bde1a295aaeb916100351a0d61568f8/Screenshot%202022-05-16%20191658.png)
+##### *SECCIÓN 4-5 Fuentes de potencia*
 
-![](https://github.com/DamarisRivera/InformeTarea/blob/8bc1dbf87f649a5c256956b0e7b28841ea259770/cap2.png)
+##### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
-##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+##### 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
-![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
+##### 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
-	Solo en el resistor R1
-
-##### 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/b237488369dfbbc795d8c860457f81023c0f9aea/Screenshot%202022-05-16%20191944.png)
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/127bb2fb71fc33a6bcf4ddb040b02beeb166bc35/cap3.png)
-
-##### *SECCIÓN 2-7 Mediciones de circuito básicas*
-
-##### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192345.png)
-
-	Para medir la resistencia se debe separar del circuito en caso de querer saber solo el valor de la resistencia, si se mide la resistencia dentro del circuito el valor va a ser influenciado por el mismo. 
-
-##### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192409.png)
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/588f3978987d7ea2dd02a9c1472e467c823261a3/Screenshot%202022-05-17%20000542-----12.png)
-
-##### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/fa159a22a9fa96aed599157826aed9e7a7e8760d/Imag_1_re_l1.png)
-
-##### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
-
-![](https://github.com/DamarisRivera/InformeTarea/blob/c86e76143080b5916367e8989c039276b768604f/Screenshot%202022-05-16%20193022.png)
-
-	Son 10 kohms.
-
-##### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
-
-	Son 19.999 recuentos de resolución.	
+##### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
 ## 4. Video
-
-https://youtu.be/wJFYyC8gW80
-
 
 ## 5. Conclusiones
 
