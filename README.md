@@ -30,20 +30,26 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### *SECCIÓN 3-1 	La relación de corriente, voltaje y resistencia*
 	
 ##### 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+
+	I = V/R 
 	
 ##### 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
+	R = V/I
+
 ##### 6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito. 
 	
-	(a) V = 1.5 V
+	Sacando la resistencia del circuito: R = V/I     →   R = 1 V/5 mA   →   R = 0.2 kΩ 
 	
-	(b) V = 2 V
+	(a) V = 1.5 V       →      I = V/R   →      I = 1.5 V/0.2 kΩ      →   I = 7.5 mA
 	
-	(c) V = 3 V
+	(b) V = 2 V         →      I = V/R   →      I = 2 V/0.2 kΩ        →   I = 10 mA
+	
+	(c) V = 3 V         →      I = V/R   →      I = 3 V/0.2 kΩ        →   I = 15 mA
   
-  	(d) V = 4 V
+  	(d) V = 4 V         →      I = V/R   →      I = 4 V/0.2 kΩ        →   I = 20 mA
   
-  	(e) V = 10 V
+  	(e) V = 10 V        →      I = V/R   →      I = 10 V/0.2 kΩ        →   I = 50 mA
 	
 ##### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 	
@@ -59,7 +65,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 ##### 16. Determine la corriente en cada caso:
 	
-	(a) V = 9 V,   R = 2.7 kΩ
+	(a) V = 9 V,   R = 2.7 k
 	
 	(b) V = 5.5 V, R = 10 kΩ
 	
