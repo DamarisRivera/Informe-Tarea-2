@@ -49,9 +49,12 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
   
   	(d) V = 4 V         →      I = V/R   →      I = 4 V/0.2 kΩ        →   I = 20 mA
   
-  	(e) V = 10 V        →      I = V/R   →      I = 10 V/0.2 kΩ        →   I = 50 mA
+  	(e) V = 10 V        →      I = V/R   →      I = 10 V/0.2 kΩ       →   I = 50 mA
 	
 ##### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+	Resistencia: 8200 Ω ± 5%
+	
 	
 ##### 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  	
