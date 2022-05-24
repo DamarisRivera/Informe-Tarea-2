@@ -54,19 +54,29 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
 	Resistencia: 8200 Ω ± 5%
-	
+	La corriente se incrementaría cuatro veces si el voltaje se duplica y la resistencia se reduce a la mitad.
 	
 ##### 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  	
 ![image](https://user-images.githubusercontent.com/105671763/169898729-d0c74a29-d2d6-4720-8328-b0d7414384cd.png)
 
-
+	(a) I = V/R     →     I = (50 V)(3.3 kΩ) = 165 mA
+	
+	(b) I = V/R     →     I = (75 V)(3.9 kΩ) = 292.5 mA
+	
+	(c) I = V/R     →     I = (100 V)(4.7 kΩ) = 470 mA
+	
+	El circuito que tiene más corriente es el circuito (c).
 
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
+	
+
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
-##### *SECCIÓN 3-1 	Cálculo de la corriente*
+
+
+##### *SECCIÓN 3-2 Cálculo de la corriente*
 	
 ##### 16. Determine la corriente en cada caso:
 	
