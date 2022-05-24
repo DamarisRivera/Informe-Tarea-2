@@ -60,6 +60,8 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
  	
 ![image](https://user-images.githubusercontent.com/105671763/169898729-d0c74a29-d2d6-4720-8328-b0d7414384cd.png)
 
+
+
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
