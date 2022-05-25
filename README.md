@@ -19,8 +19,12 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 ## 2. Marco Teórico
 
+### CAPITULO 3
 ![Cuadro Azul Mapa Mental](https://user-images.githubusercontent.com/105671763/170374766-fc229e3b-4a50-4795-8ace-83df8f457db7.jpg)
 
+![image](https://user-images.githubusercontent.com/105671763/170386989-7f4e52de-ba14-40f5-995c-925ee2d60987.png)
+
+### CAPITULO 4
 
 
 ## 3. Explicación y resolución de ejercicios 
