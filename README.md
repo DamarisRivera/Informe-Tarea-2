@@ -19,6 +19,8 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 ## 2. Marco Teórico
 
+![Cuadro Azul Mapa Mental](https://user-images.githubusercontent.com/105671763/170374766-fc229e3b-4a50-4795-8ace-83df8f457db7.jpg)
+
 
 
 ## 3. Explicación y resolución de ejercicios 
