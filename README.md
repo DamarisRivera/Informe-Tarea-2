@@ -82,6 +82,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
 ![image](https://user-images.githubusercontent.com/105671763/170419512-06b33aff-4ebc-4d89-900f-e280023ad3cd.png)
+	
 	Tiene una relación lineal.
 
 ##### *SECCIÓN 3-2 Cálculo de la corriente*
