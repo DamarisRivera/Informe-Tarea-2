@@ -170,7 +170,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
 
-	
+	R = (120 V)/(2 A) = 60 Ω
 
 ##### *SECCIÓN 3-5 Introducción a la localización de fallas*
 
@@ -271,7 +271,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
-	
+	P = V^2/R  =   P = (1.25 V)^2/10 Ω = 0.16 W
 
 ##### 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
@@ -287,7 +287,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ## 4. Video
 
-
+https://youtu.be/Ej9LWWFqLNY
 
 ## 5. Conclusiones
 
