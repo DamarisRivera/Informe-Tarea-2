@@ -236,11 +236,19 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
+	
+
 ##### 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+	capacidad = (1.5 A)(24 h) = 36 Ah
 
 ##### 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
+	capacidad = (I)(x h)  →   I = (650 mAh)/(48 h)   →    I = 13.54 mA
+
 ##### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+	Eficiencia = (Pentrada)/(Psalida)  →   Psalida = Pentrada/Eficiencia  →  Psalida = 5 W/85 %   →  Psalida = 5.89 W
 
 ## 4. Video
 
