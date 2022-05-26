@@ -211,20 +211,32 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 ##### 14. Convierta 5 x 10^6 watts-minutos en kWh
 
 ##### 16.  ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
+	
 	
 ##### *SECCIÓN 4-2 Potencia en un circuito eléctrico*
 
 ##### 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
+	P = V*I = 5.5 V*3 mA = 16.5 mW
+
 ##### 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+	P = I^2*R   →   P = (500 mA)^2(4.7 kΩ) = 1.18 kW
 
 ##### 22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
 
-##### 24. n resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+	P = V^2/R = 60 V/680 Ω = 0.09 W
+
+##### 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+	P = I^2*R   →    R = P/I^2   →   R = 100 W/(2 A)^2    R = 6.25 Ω
 
 ##### *SECCIÓN 4-3 Clasificaciones de potencia en resistores*
 
 ##### 26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+	P = I^2*R = (10 mA)(6.8  kΩ) = 0.68 kW
 
 ##### *SECCIÓN 4-4 Conversión de energía y caída de voltaje en una resistencia*
 
