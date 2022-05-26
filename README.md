@@ -174,45 +174,53 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
 
+	
+
 ##### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+	P = W/t   →   P = 7500 J/5 h    →   P = 0.42 W
 
 ##### 6. Convierta las siguientes cantidades en kilowatts:
 
-	(a) 1000 W
+	(a) 1000 W      →        1 kW
 	
-	(b) 3750 W
+	(b) 3750 W      →        3.75 kW
 	
-	(c) 160 W
+	(c) 160 W       →        0.16 kW
 	
-	(d) 50,000 W
+	(d) 50,000 W    →        0.05 kW
 
 ##### 8. Convierta las siguientes cantidades en miliwatts:
 
-	(a) 1 W
+	(a) 1 W           →    1000 mW
 	
-	(b) 0.4 W
+	(b) 0.4 W         →    400 mW
 	
-	(c) 0.002 W
+	(c) 0.002 W       →    2 mW
 	
-	(d) 0ñ.0125 W
+	(d) 0.0125 W      →    12.5 W    
 
 ##### 10.  Convierta las siguientes cantidades en watts:
 	
-	(a) 1.5 kW
+	(a) 1.5 kW   →   1.500 W
 	
-	(b) 0.5 MW
+	(b) 0.5 MW   →   500000 W
 	
-	(c) 350 mW
+	(c) 350 mW   →   0.35 W
 	
-	(d) 9000 μW
+	(d) 9000 μW  →   0.009 W
 
 ##### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
+	W = Pt = (300 W)(720 h) = 216.000 kWh
+
 ##### 14. Convierta 5 x 10^6 watts-minutos en kWh
+
+	W = Pt = (5x10^6 W)(60 min) = 300000000 kWh
 
 ##### 16.  ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 
-	
+	P = W/t  →   t = W/P   →   t = W/I^2R    →    t = 25 J/(25 A)(47 Ω)   →  t = 0.02 s
 	
 ##### *SECCIÓN 4-2 Potencia en un circuito eléctrico*
 
