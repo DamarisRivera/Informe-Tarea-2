@@ -144,15 +144,15 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 28. Encuentre la resistencia de un reóstato para cada valor de V e I: 
 	
-	(a) V = 10 V, I = 2 A
+	(a) V = 10 V, I = 2 A       →  R = V/I  = 10 V/2 A = 5 Ω
 	
-	(b) V = 90 V, I = 45 A
+	(b) V = 90 V, I = 45 A      →  R = V/I  = 90 V/45 A = 2 Ω
 	
-	(c) V = 50 V, I = 5 A
+	(c) V = 50 V, I = 5 A       →  R = V/I  = 50 V/5A = 10 Ω
 	
-	(d) V = 5.5 V, I = 10 A
+	(d) V = 5.5 V, I = 10 A     →  R = V/I  = 5.5 V/10 A = 0.55 Ω
   
-  	(e) V = 1 kV, I = 1 mA
+  	(e) V = 1 kV, I = 1 mA      →  R = V/I  = 1 kV/1 mA = 1 MΩ
 	
 ##### 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
