@@ -110,10 +110,11 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 	
 	I = V/R  →   I = 12 V/37.4 Ω   →   I = 0.32 A
 
-##### 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+##### 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 	
 ![image](https://user-images.githubusercontent.com/105671763/169899865-7808c506-8385-44b2-8a7a-8c64a7e27520.png)
 	
+	V = Vc.e -Vf = (8 Ω)(100 V)-120 V = 800 V - 120 V = 680 V 
 
 ##### *SECCIÓN 3-3 Cálculo de voltaje*
 
