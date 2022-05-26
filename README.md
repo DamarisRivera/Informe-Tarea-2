@@ -10,11 +10,11 @@
   
 ### 1.1 Objetivo General
         
-Aprender sobre las bases fundamentales que dan pie a la planteación de problemas sobre circuitos eléctricos, mediante la resolución de ejercicios planteados dentro de cada capítulo.
+Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circuitos mediante la explicación de conceptos y la resolución de ejercicios.
 	
 ### 1.2 Objetivos Específicos
         
-- Explicar el procedimieento de los ejercicios realizados en cada capítulo.
+- Explicar el procedimiento de los ejercicios realizados en cada capítulo.
 - Comprender los conceptos aplicados a cada problema propuesto.
 	
 ## 2. Marco Teórico
@@ -72,37 +72,46 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 	(c) I = V/R     →     I = (100 V)(4.7 kΩ) = 470 mA
 	
-	El circuito que tiene más corriente es el circuito (c).
+	El circuito que tiene más corriente es el circuito (c). El circuto con menos corriente es el (a).
 
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
-	
+	Se debe cambiar la fuente a 30 V.
 
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
-
+	![image](https://user-images.githubusercontent.com/105671763/170419512-06b33aff-4ebc-4d89-900f-e280023ad3cd.png)
+	Tiene una relación lineal.
 
 ##### *SECCIÓN 3-2 Cálculo de la corriente*
 	
 ##### 16. Determine la corriente en cada caso:
 	
-	(a) V = 9 V,   R = 2.7 k
+	(a) V = 9 V,   R = 2.7 kΩ      →    I = V/R  →  I = 9 v/2.7 kΩ    →    I = 18.15 mA
 	
-	(b) V = 5.5 V, R = 10 kΩ
+	(b) V = 5.5 V, R = 10 kΩ       →    I = V/R  →  I = 5.5 v/10 kΩ   →    I = 0.55 mA
 	
-	(c) V = 40 V, R = 68 kΩ
+	(c) V = 40 V, R = 68 kΩ        →    I = V/R  →  I = 40 v/68 kΩ    →    I = 0.59 mA
   
-  	(d) V = 1 kV, R = 2.2 kΩ
+  	(d) V = 1 kV, R = 2.2 kΩ       →    I = V/R  →  I = 1 kV/2.2 kΩ   →    I = 0.45 A
   
-  	(e) V = 66 kV, R = 10 MΩ
+  	(e) V = 66 kV, R = 10 MΩ       →    I = V/R  →  I = 66 kV/10 MΩ   →    I = 6.6 mA
 	
-##### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+##### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+	Resistencia: 3300 Ω ± 5%
+	I = V/R     →     I = 12 V/3300 Ω    →    I = 0.004 A
 
 ##### 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+	Resistencia:  (374x0.1) Ω ± 1%   →    37.4 Ω ± 1%
+	
+	I = V/R  →   I = 12 V/37.4 Ω   →   I = 0.32 A
 
 ##### 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 	
 ![image](https://user-images.githubusercontent.com/105671763/169899865-7808c506-8385-44b2-8a7a-8c64a7e27520.png)
+	
 
 ##### *SECCIÓN 3-3 Cálculo de voltaje*
 
