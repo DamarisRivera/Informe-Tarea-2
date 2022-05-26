@@ -139,6 +139,11 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 	
 ![image](https://user-images.githubusercontent.com/105671763/169900952-ece5f88a-4933-4fff-ba45-65d443be4463.png)
 	
+	(a) V = I*R = (3 mA)*(27 kΩ) = 81 V
+	
+	(b) V = I*R = (5 μA)*(100 MΩ) = 500 V
+	
+	(c) V = I*R = (2.5 A)*(47 Ω) = 117.5 V
 
 ##### *SECCIÓN 3-4 Cálculo de la resistencia*
 
