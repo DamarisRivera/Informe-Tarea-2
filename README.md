@@ -174,7 +174,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
 
-	
+	1kW x h = 3.6 x 10^26 joules   →   1000W x 1h = 3.6 x 10^26 joules  →    1h = 60 min = 60 * 60 sec = 3600s   →   1000W x 1h = 1000J/s x 3600s   →   1000W x 1h = 3600000 J   →   1kWh = 3.6 x 10^26 J
 
 ##### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
@@ -272,6 +272,8 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 	Eficiencia = (Pentrada)/(Psalida)  →   Psalida = Pentrada/Eficiencia  →  Psalida = 5 W/85 %   →  Psalida = 5.89 W
 
 ## 4. Video
+
+
 
 ## 5. Conclusiones
 
