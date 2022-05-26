@@ -72,7 +72,8 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 	
 	(c) I = V/R     →     I = (100 V)(4.7 kΩ) = 470 mA
 	
-	El circuito que tiene más corriente es el circuito (c). El circuto con menos corriente es el (a).
+	El circuito que tiene más corriente es el circuito (c). 
+	El circuto con menos corriente es el (a).
 
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
@@ -80,7 +81,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
-	![image](https://user-images.githubusercontent.com/105671763/170419512-06b33aff-4ebc-4d89-900f-e280023ad3cd.png)
+![image](https://user-images.githubusercontent.com/105671763/170419512-06b33aff-4ebc-4d89-900f-e280023ad3cd.png)
 	Tiene una relación lineal.
 
 ##### *SECCIÓN 3-2 Cálculo de la corriente*
