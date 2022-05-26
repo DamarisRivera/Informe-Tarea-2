@@ -265,7 +265,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 ##### 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
 ![image](https://user-images.githubusercontent.com/105671763/169917467-d1a3814b-c6ee-44a5-b4a5-f3f3aeb73fe4.png)
-![image](https://user-images.githubusercontent.com/105671763/170455395-ae407b27-9e7a-44de-9031-0effb9c6f54e.png)
+![image](https://user-images.githubusercontent.com/105671763/170500268-bf8418a1-e5eb-4c6b-b7a6-4f80c8c4874f.png)
 
 ##### *SECCIÓN 4-5 Fuentes de potencia*
 
