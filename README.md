@@ -118,25 +118,26 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 24. Calcule el voltaje para cada valor de I y R: 
 	
-	(a) I = 1 mA, R = 10 Ω
+	(a) I = 1 mA, R = 10 Ω           →    V = I*R   →   V = 1 mA*10 Ω       →   V = 0.01 V
 	
-	(b) I = 50 mA, R = 33 Ω
+	(b) I = 50 mA, R = 33 Ω          →    V = I*R   →   V = 50 mA*33 Ω      →   V = 1.65 V
 	
-	(c) I = 3 A, R = 5.6 kΩ
+	(c) I = 3 A, R = 5.6 kΩ          →    V = I*R   →   V = 3 A*5.6 kΩ      →   V = 16.8 kV
   
-  	(d) I = 1.6 mA, R = 2.2 kΩ
+  	(d) I = 1.6 mA, R = 2.2 kΩ       →    V = I*R   →   V = 1.6 mA*2.2 kΩ   →   V = 3.52 V
   
-  	(e) I = 250 μA, R = 1.0 kΩ
+  	(e) I = 250 μA, R = 1.0 kΩ       →    V = I*R   →   V = 250 μA*1.0 kΩ   →   V = 0.25 V
   
-  	(f) I = 500 mA, R = 1.5 MΩ
+  	(f) I = 500 mA, R = 1.5 MΩ       →    V = I*R   →   V = 500 mA*1.5 MΩ   →   V = 750 kV
   
-  	(g) I = 850 μA, R = 10 MΩ
+  	(g) I = 850 μA, R = 10 MΩ        →    V = I*R   →   V = 850 μA*10 MΩ    →   V = 8.5 kV
   
-  	(h) I = 75 μA, R = 47 Ω
+  	(h) I = 75 μA, R = 47 Ω          →    V = I*R   →   V = 75 μA*47 Ω      →   V = 0 V
 	
-##### 26. signe un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+##### 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 	
 ![image](https://user-images.githubusercontent.com/105671763/169900952-ece5f88a-4933-4fff-ba45-65d443be4463.png)
+	
 
 ##### *SECCIÓN 3-4 Cálculo de la resistencia*
 
