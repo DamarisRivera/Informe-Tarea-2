@@ -160,11 +160,15 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
 
+	
+
 ##### *SECCIÓN 3-5 Introducción a la localización de fallas*
 
 ##### 36.  En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![image](https://user-images.githubusercontent.com/105671763/169901904-9895cf5f-0465-4300-b53b-074acfec9f1d.png)
+
+	El tercer foco se encuentra fundido.
 
 #### CAPÍTULO 4
 
@@ -174,7 +178,7 @@ Aprender la Ley de Ohm, Energía y Potencia para resolver interrogantes de circu
 
 ##### 2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
 
-	1kW x h = 3.6 x 10^26 joules   →   1000W x 1h = 3.6 x 10^26 joules  →    1h = 60 min = 60 * 60 sec = 3600s   →   1000W x 1h = 1000J/s x 3600s   →   1000W x 1h = 3600000 J   →   1kWh = 3.6 x 10^26 J
+	1kW x h = 3.6 x 10^6 joules   →   1000W x 1h = 3.6 x 10^6 joules  →    1h = 60 min = 60 * 60 sec = 3600s   →   1000W x 1h = 1000J/s x 3600s   →   1000W x 1h = 3600000 J   →   1kWh = 3.6 x 10^6 J
 
 ##### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
